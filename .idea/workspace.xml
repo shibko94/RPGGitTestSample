@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="062797bc-3ae1-4405-a1e4-ddddf15e1c69" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="062797bc-3ae1-4405-a1e4-ddddf15e1c69" name="Changes" comment="commit4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,14 +63,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687450704708</updated>
     </task>
-    <task id="LOCAL-00005" summary="Revert &quot;commit2&quot;&#10;&#10;This reverts commit 5baad7ae">
-      <created>1687451292668</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1687451292668</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,7 +93,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit2" />
     <MESSAGE value="commit4" />
-    <MESSAGE value="Revert &quot;commit2&quot;&#10;&#10;This reverts commit 5baad7ae" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;commit2&quot;&#10;&#10;This reverts commit 5baad7ae" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit4" />
   </component>
 </project>
