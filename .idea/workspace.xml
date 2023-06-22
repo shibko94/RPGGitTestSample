@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="062797bc-3ae1-4405-a1e4-ddddf15e1c69" name="Changes" comment="second commit via IJ" />
+    <list default="true" id="062797bc-3ae1-4405-a1e4-ddddf15e1c69" name="Changes" comment="commit4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +35,35 @@
       <option name="presentableId" value="Default" />
       <updated>1687437170177</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit1">
+      <created>1687450687546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687450687546</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit1">
+      <created>1687450693243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687450693243</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit3">
+      <created>1687450700133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687450700133</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit3">
+      <created>1687450704708</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687450704708</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -60,5 +89,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit2" />
+    <MESSAGE value="commit4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit4" />
   </component>
 </project>
